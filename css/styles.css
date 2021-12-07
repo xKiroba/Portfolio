@@ -142,9 +142,7 @@ span{
 
 .portfolio-headings h2{
     font-size: 2.5em;
-
 }
-
 .portfolio .container {
     width:80vw;
     height: 80vh;
@@ -159,6 +157,7 @@ span{
     height: 350px;
     color: #ffff;
     background-color: rgb(17, 22, 70);
+    margin: 1em;
 }
 .card__img{
     width: 100%;
@@ -167,7 +166,7 @@ span{
     background-size: cover;
 }
 
-.card__tittle {
+.card__title {
     padding: 20px;
 }
 
@@ -193,6 +192,7 @@ span{
 .card .project-details a{
     text-decoration: none;
     color: #191c32;
+    text-transform: uppercase;
     
 }
 .project-details-content {
